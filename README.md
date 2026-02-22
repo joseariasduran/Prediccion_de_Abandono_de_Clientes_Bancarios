@@ -88,7 +88,8 @@ detección de clientes en riesgo.
 
 1.  Clonar el repositorio:
 
-git clone https://github.com/tu-usuario/beta-bank-churn.git
+git clone https://github.com/joseariasduran/Prediccion_de_Abandono_de_Clientes_Bancarios
+Public.git
 
 2.  Instalar dependencias:
 

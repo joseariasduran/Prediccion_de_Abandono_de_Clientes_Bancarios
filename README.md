@@ -88,8 +88,7 @@ detección de clientes en riesgo.
 
 1.  Clonar el repositorio:
 
-git clone https://github.com/joseariasduran/Prediccion_de_Abandono_de_Clientes_Bancarios
-Public.git
+git clone https://github.com/joseariasduran/Prediccion_de_Abandono_de_Clientes_Bancarios.git
 
 2.  Instalar dependencias:
 
